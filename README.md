@@ -5,6 +5,8 @@
 - https://www.baeldung.com/spring-rest-openapi-documentation
 - https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
 - https://www.baeldung.com/a-guide-to-java-enums
+- https://refactoring.guru/design-patterns/strategy/java/example
+- 
 
 ### Infra
 

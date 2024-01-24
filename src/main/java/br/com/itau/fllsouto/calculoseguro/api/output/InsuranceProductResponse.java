@@ -3,7 +3,7 @@ package br.com.itau.fllsouto.calculoseguro.api.output;
 import java.math.BigDecimal;
 
 import br.com.itau.fllsouto.calculoseguro.api.common.InsuranceProductCategory;
-import br.com.itau.fllsouto.calculoseguro.domain.usecases.output.InsuranceProductOutput;
+import br.com.itau.fllsouto.calculoseguro.domain.output.InsuranceProductOutput;
 
 public class InsuranceProductResponse {
     

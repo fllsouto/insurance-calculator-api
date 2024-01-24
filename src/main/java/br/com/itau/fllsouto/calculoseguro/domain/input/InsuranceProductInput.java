@@ -1,4 +1,4 @@
-package br.com.itau.fllsouto.calculoseguro.domain.usecases.input;
+package br.com.itau.fllsouto.calculoseguro.domain.input;
 
 import java.math.BigDecimal;
 
